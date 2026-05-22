@@ -3,7 +3,7 @@
 Create Database and Schemas
 =============================================
 Scripts Purpose:
-	This scripts creates a new database named "DataWarehouse" after checking if it already exits.
+	This scripts creates a new database named "DataWarehouse" after checking if it already exists.
 	If the database exists, it is dropped and recreated.  
 WARNING: 
 	Running the scripts will drop the entire 'DataWarehouse' database if it exists.
